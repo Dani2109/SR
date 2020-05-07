@@ -3,5 +3,4 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
-    <item name="nav_host_fragment" type="id" />
 </resources>
